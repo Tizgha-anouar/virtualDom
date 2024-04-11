@@ -2,8 +2,8 @@ javascript
 
 create Virtual DOM 
 DOM = document Object Model
-build:
-    create Element 
+build:_
+    create Element_
     render Element
     Mount Element
 
