@@ -1,11 +1,11 @@
-javascript
+#javascript
 
-create Virtual DOM 
-DOM = document Object Model
+create Virtual DOM<br>
+DOM = document Object Model<br>
 build:<br>
-    create Element_
-    render Element
-    Mount Element
+    create Element<br>
+    render Element<br>
+    Mount Element<br>
 
-    get diff between old element and new Element
+    get diff between old element and new Element<br>
     
